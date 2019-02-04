@@ -1,5 +1,5 @@
 FROM nginx:alpine
 
-MAINTAINER Vaibhav Gupta
+MAINTAINER Ruchi Goyal
 
 COPY Login_v1/ /usr/share/nginx/html/
